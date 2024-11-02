@@ -1,0 +1,16 @@
+{
+  "allwatchlists": [
+    {
+      "Id": "1",
+      "Name": "Deadpool",
+      "status": "notwatched",
+      "id": "83e7"
+    },
+    {
+      "id": "904d",
+      "Id": "2",
+      "Name": "Squid game",
+      "status": "watched"
+    }
+  ]
+}
